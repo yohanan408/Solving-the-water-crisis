@@ -59,7 +59,8 @@ The analysis utilizes a relational database with key tables including:
 
 
 ##  Power BI Visualization
-<img width="384" height="215" alt="image" src="https://github.com/user-attachments/assets/85235b76-bd09-417a-a8d0-564e00902452" />
+<img width="384" height="228" alt="image" src="https://github.com/user-attachments/assets/5c9438cb-c3b7-4375-a48d-a30e8b2b23cc" />
+
 
 
 
